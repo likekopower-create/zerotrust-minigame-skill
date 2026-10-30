@@ -1,0 +1,1 @@
+Please read skills/zerotrust-minigame/SKILL.md for minigame development tasks. Keep protocol documentation, the starter, and its tests consistent. Do not claim real Simulation integration or cloud writes based on mock-host tests.
