@@ -1,0 +1,12 @@
+{
+  "id": "tap-training",
+  "title": "Tap Training Demo",
+  "version": "1.0.0",
+  "protocol": "zt-minigame/1",
+  "entry": "index.html",
+  "orientation": "any",
+  "score": { "kind": "final", "rawMin": 0, "rawMax": 50 },
+  "rewardProposal": { "rule": "10 points only for completed rawScore 50", "approval": "demo-only" },
+  "dependencies": [],
+  "notes": "Demonstration only. Host reward rules must be reviewed separately."
+}
