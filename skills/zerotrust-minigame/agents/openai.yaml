@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZERO TRUST Minigame"
+  short_description: "Build standalone minigames for ZERO TRUST SIMULATOR"
+  default_prompt: "Use $zerotrust-minigame to build an independent HTML5 minigame and verify its result protocol with the included mock host."
